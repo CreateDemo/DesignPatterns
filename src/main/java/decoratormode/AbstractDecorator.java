@@ -1,11 +1,6 @@
 package decoratormode;
 
 /**
- * @Description TODO
- * @ClassName AbstractDecorator@Description TODO
- * @Author xiaofeng
- * @copyright Copyright (C) 2019 SHEIN, Inc. All right reserved. <br>
- * @company 南京领添科技有限公司
  * @Date 2020/7/31 16:06
  **/
 public class AbstractDecorator  extends ABattercake  {
